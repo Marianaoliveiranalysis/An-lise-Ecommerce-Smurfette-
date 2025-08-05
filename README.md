@@ -3,7 +3,7 @@
 
 Este repositório contém a documentação e os insights extraídos do **Relatório Comercial** desenvolvido no [Looker Studio](https://lookerstudio.google.com/). O objetivo principal é acompanhar os principais indicadores de desempenho comercial da empresa, com destaque para vendas, lucratividade, produtos mais vendidos e performance dos vendedores.
 
-🔗 Acesse o relatório interativo: [Relatório no Looker Studio][(https://lookerstudio.google.com/reporting/8c4984a5-74ac-4376-b7b3-bd7cf03562d7/page/itJTF)]
+🔗 Acesse o relatório interativo: [[Relatório no Looker Studio][(https://lookerstudio.google.com/reporting/8c4984a5-74ac-4376-b7b3-bd7cf03562d7/page/itJTF)]](https://lookerstudio.google.com/reporting/6b53b92e-85f7-4fbb-84c3-eb2bfe393651/page/DsvSF/edit)
 
 ---
 
